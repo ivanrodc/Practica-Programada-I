@@ -88,7 +88,7 @@ ALTER TABLE Cliente
 MODIFY cedulaCliente VARCHAR(15);
 
 
--- DATOS FICTICIOS: Se crearan un total de 10 datos por cada una de las tablas. 
+-- DATOS FICTICIOS: Se crearan un total de n datos por cada una de las tablas. 
 
 -- Tabla TERRITORIO:
 insert into Territorio(provincia, canton, distrito) values("Heredia","Flores","San Joaquin");
@@ -101,6 +101,11 @@ insert into Territorio(provincia, canton, distrito) values("Puntarenas","Esparza
 insert into Territorio(provincia, canton, distrito) values("Heredia","Santo Domingo","Paracito");
 insert into Territorio(provincia, canton, distrito) values("Guanacaste","Nicoya","Nosara");
 insert into Territorio(provincia, canton, distrito) values("Guanacaste","Santa Cruz","Tempate");
+insert into Territorio(provincia, canton, distrito) values("Cartago","Paraiso","Orosi");
+insert into Territorio(provincia, canton, distrito) values("Alajuela","San Ramoon","San Juan");
+insert into Territorio(provincia, canton, distrito) values("San Jose","Dota","Copey");
+insert into Territorio(provincia, canton, distrito) values("San Jose","Curridabat","Granadilla");
+
 select * from Territorio;
 
 -- Tabla CATEGORIA:
