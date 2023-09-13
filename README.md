@@ -7,5 +7,6 @@ Este repositorio corresponde a la primera práctica programada del curso XS-3210
 * [Modelo Entidad-Relación](https://github.com/ivanrodc/Practica-Programada-I/blob/main/modelo_ER_final.pdf)
 * [Script .sql](https://github.com/ivanrodc/Practica-Programada-I/blob/main/finalivan.sql)
 
-El desarrollo total de este código estuvo a cargo de [Iván Daniel Rodríguez Cruz](https://www.linkedin.com/in/iv%C3%A1n-daniel-rodr%C3%ADguez-cruz-2471a325a/).
+## Nota
+El desarrollo total de este código estuvo a cargo de [Iván Daniel Rodríguez Cruz, C09204](https://www.linkedin.com/in/iv%C3%A1n-daniel-rodr%C3%ADguez-cruz-2471a325a/).
 
