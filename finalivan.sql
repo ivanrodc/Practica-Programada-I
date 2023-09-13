@@ -1,3 +1,5 @@
+-- Estudiante: Iván Daniel Rodríguez Cruz, C09204
+
 -- CREACIÓN BASE DE DATOS
 -- En esta primera parte se empieza por crear la base de datos que contendrá todas las tablas a información
 -- necesaria para cumplir con esta asignación. Además, se establecen los tamaños de los archivos de la base.
