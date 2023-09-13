@@ -1,6 +1,6 @@
 # Practica Programada I
 
-Este repositorio corresponde a la primera práctica programada del curso XS-3210 Sistemas de Información de la carrera de Estadística en la Universidad de Costa Rica a cargo del docente [Lic. Michael Sánchez Soto](https://www.linkedin.com/in/mikesaso13/). 
+Este repositorio corresponde a la primera práctica programada del curso XS-3210 Sistemas de Información de la carrera de Estadística en la Universidad de Costa Rica a cargo del docente [Lic. Michael Sánchez Soto](https://www.linkedin.com/in/mikesaso13/). Además, el código fue realizado en la plataforma [MySQL Workbench 8.0 CE](https://www.mysql.com/).
 
 ## Contenidos
 
